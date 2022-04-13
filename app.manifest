@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "MongoDB Command Inputs",
+    "id": {
+      "group": null,
+      "name": "TA-mongodb-command-inputs",
+      "version": "1.2.1"
+    },
+    "author": [
+      {
+        "name": "Hesc",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "使用Mongodb数据库自带的性能查询命令采集性能数据",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}

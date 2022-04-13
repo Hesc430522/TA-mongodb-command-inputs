@@ -1,0 +1,30 @@
+[props/mongodb%3Acommand]
+owner = admin
+version = 8.2.4
+modtime = 1649752821.882001100
+
+[props/source%3A%3A...ta-mongodb-command-inputs%2A.log%2A]
+owner = admin
+version = 8.2.4
+modtime = 1649752822.576879200
+
+[props/source%3A%3A...ta_mongodb_command_inputs%2A.log%2A]
+owner = admin
+version = 8.2.4
+modtime = 1649752823.095561600
+
+[app/ui]
+version = 8.2.4
+modtime = 1649753041.947962300
+
+[app/launcher]
+version = 8.2.4
+modtime = 1649753041.951995300
+
+[app/package/check_for_updates]
+version = 8.2.4
+modtime = 1649753041.954997000
+
+[ta_mongodb_command_inputs_settings/logging]
+version = 8.2.4
+modtime = 1649830427.454861100
